@@ -1,0 +1,6 @@
+{
+  "name": "FlowDo - Intelligent Task & Project Management",
+  "description": "Orchestrate tasks, upcoming schedule timelines, workspace velocity, and productivity flow with FlowDo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
